@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Processor",
+  "description": "An elegant web application for trimming and processing videos. Users can cut videos manually by specifying time segments or use the power of AI to automatically find and clip segments based on user-provided questions.",
+  "requestFramePermissions": []
+}
